@@ -10,3 +10,7 @@ if (modulo(len,2)==1) then
 else
     disp((lis(len/2)+lis((len/2)+1))/2)
 end
+disp("varience")
+disp(variance(lis))
+disp("standard deviation")
+disp(stdeb(lis))
