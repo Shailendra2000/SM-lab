@@ -1,0 +1,2 @@
+lis=rand(14,5,"uniform");//Congruential Random Number
+disp(lis)
